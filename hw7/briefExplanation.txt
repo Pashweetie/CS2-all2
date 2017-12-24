@@ -1,0 +1,3 @@
+Because it seemed like a linked list could handle just about any amount of elements I decided with a relatively high load factor of about 60(183 elements,10962 unique words)
+The second one however seemed to like a load factor of .75 so I instead increased the size of the array from 183 to 14616 in order to have under 1 item per element since
+the java hash table seemed to like it better.

@@ -1,0 +1,13 @@
+I've had a lot of issues with this assignment
+At first I coded something very quickly and it didn't work
+It seems to me like I've overcomplicated a lot of the methods however
+I've had the most issues with compiler and logic errors
+Linked List was somewhat diffcult to implement and I didn't really undestand the write up and I'm not entirely sure if the code i wrote is 
+trustworthy
+
+I'm having a lot of troubles importing the information and bringing it into my objects. My arrays are all set to null and have a size of zero although I've added elements. I have no idea whats wrong.]
+
+Just found out that my counter in a loop wasn't reseting to zero because i named it counters in the initialization. I'm incredibly upset relieved and many other things.
+
+Well for some reason the HW2 class seems haunted since it always is causing issues so I might just rename it or change it to another file.
+I think my test.java works for the main class and HW2 does not so I'm just going to use that as my main class from now on. Sorry if its a bother
